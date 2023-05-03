@@ -1,4 +1,4 @@
-#CLASIFICACIÓN DE LA ECONOMÍA LABORAL
+CLASIFICACIÓN DE LA ECONOMÍA LABORAL
 
 Dentro de la economía laboral surgen problemas que podrían ser analizados con herramientas extraídas del Machine Learning. En el presente trabajo nos enfrentamos a un problema de economía laboral donde buscaremos la clasificación de individuos en dos grupos sujetos a una serie de variables.
 
